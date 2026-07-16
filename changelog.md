@@ -1,4 +1,7 @@
 
+## Version 3.2 
+- Fixed bug with alarm text resolution
+
 
 ## Version 3.1 
 - Added Call Duration parameter – allows to configure ringing duration of a call
