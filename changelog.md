@@ -1,4 +1,7 @@
 
+## Version 3.3 
+- Add alarm-recipient TTS dispatch modes and async device dispatch
+
 ## Version 3.2 
 - Fixed bug with alarm text resolution
 
