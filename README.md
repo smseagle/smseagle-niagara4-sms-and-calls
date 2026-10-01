@@ -1,5 +1,13 @@
-This repository contains driver for Tridium Niagara 4 integration with SMSEagle Hardware SMS Gateway.
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+> The Proximus Niagara 4 driver (v3.3) will not receive updates, fixes or support.
 
-This driver allows you sending of SMS alarm messages, wake-up calls (ring only) and voice calls (text-to-speech) via TCP/IP from Tridium Supervisor 4, JACE8000, or JACE9000 stations. The driver uses SMSEagle hardware with a SIM card inside. SMSEagle is an offline hardware SMS gateway. All alarms are generated on-premise and sent directly to a cellular network. This solution can be used in secure installations (air-gapped environments). 
+## Use the Smart Node driver instead
 
-Full description and installation manual can be found on https://www.smseagle.eu/integration-plugins/niagara-4-sms-integration/
+For new and existing Tridium Niagara 4 installations, use the SMSEagle module developed by Smart Node:
+https://en.smartnode.hu/sn-smseagle-modul
+
+Integration overview and setup guide:
+https://www.smseagle.eu/integration-plugins/niagara-4-sms-integration/
+
+The files in this repository are kept for reference only.
